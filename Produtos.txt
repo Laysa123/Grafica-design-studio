@@ -1,20 +1,20 @@
 blocos
-cartões
-crachás
-folder’s
-rótulos
+cartoes
+crachas
+folders
+rotulos
 etiquetas
 logomarca
-cardápios
-cartões,crachás
-blocos,cartões,crachás
-pastas,rótulos
+cardapios
+cartoes,crachas
+blocos,cartoes,crachas
+pastas,rotulos
 blocos,folders
-folder’s,pastas
-cartões,folder’s,placas
+folders,pastas
+cartoes,folders,placas
 placas,fachadas
-rótulos,etiquetas,blocos
-logomarca,arte para mídias sociais
-cardápios,blocos
-rótulos,retiquetas
+rotulos,etiquetas,blocos
+logomarca,arte para midias sociais
+cardapios,blocos
+rotulos,etiquetas
 logomarca,fachada
